@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261537302553",
+    "project_id": "comboexpert-64764",
+    "storage_bucket": "comboexpert-64764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261537302553:android:00e949a1ab0508c0880288",
+        "android_client_info": {
+          "package_name": "com.example.combo_expert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261537302553-q4ferlhtfuinlv2tsvjsrpuv8ohi2j20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL938xXo0vvB6jQTO0-iFcFPueTaIVVHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261537302553-q4ferlhtfuinlv2tsvjsrpuv8ohi2j20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
